@@ -82,7 +82,7 @@ El proyecto completo puede consultarse de forma interactiva en Looker Studio: [V
 
 ## Documentación
 
-La documentación completa del proyecto incluye el escenario de negocio, análisis de las fuentes de datos, preguntas de análisis, desarrollo de cada apartado del dashboard y principales hallazgos.
+La [documentación completa](documentation/project_documentation.pdf) del proyecto incluye el escenario de negocio, análisis de las fuentes de datos, preguntas de análisis, desarrollo de cada apartado del dashboard y principales hallazgos.
 
 ## Fuente de datos
 
